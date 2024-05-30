@@ -1,1 +1,1 @@
-# Finance-Management-App
+# Finance-App
