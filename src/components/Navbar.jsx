@@ -49,7 +49,7 @@ function Navbar() {
         }
       >
         <h1 className="w-full text-2xl font-bold text-[#00df9a] m-4">
-          Finance Management
+          TenantTrack
         </h1>
         <ul className="uppercase ">
           <li className="p-4 border-b border-gray-600">Home</li>
