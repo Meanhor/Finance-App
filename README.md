@@ -1,4 +1,4 @@
-![Schedule_DS_Y3](https://github.com/Meanhor/TenantTrack-Web/assets/105350620/7f0ab544-f6db-4c6f-9c20-b48273d1ff98)# TenantTrack
+# TenantTrack
 
 Simplify rental management with TenantTrack. Effortless rent collection, seamless tenant communication, and actionable data empower you to thrive. Focus on what matters most - growing your rental business with confidence.
 
